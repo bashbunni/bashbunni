@@ -7,7 +7,7 @@ striving to improve my coding skills. I share that journey online to give others
 company along their journey and hopefully act as a source of encouragement along
 the way.
 
-I'm working with an incredible team of developers at [@charmbracelet][charm]
+I'm working with an incredible team of developers at [@charmbracelet](https://github.com/charmbracelet)
 building developer tooling and a whole lotta libraries.
 
 ### What I'm hacking on
@@ -16,7 +16,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 is slow going. I'll definitely share them when I have MVPs ready, for now
 they're just for my own learning and enjoyment :)
 
-You can check out what I'm working on at [Charm][charm]. I bounce around all of
+You can check out what I'm working on at [Charm](https://github.com/charmbracelet). I bounce around all of
 the projects over there.
 
 ### Nerd Corner
@@ -31,5 +31,3 @@ Editor: Doom emacs
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
 
 ![gopher dancing](./dancing-gopher.gif)
-
-[charm]: github.com/charmbracelet
