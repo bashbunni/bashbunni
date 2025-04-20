@@ -32,4 +32,4 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
 
 ![gopher dancing](./dancing-gopher.gif)
 
-[charm]: github.com/charmbracelet
+[charm]: https://github.com/charmbracelet
